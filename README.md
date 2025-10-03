@@ -1,5 +1,5 @@
 # Shell Scripting Tutorial
-** This repository contains practical examples and guides for learning shell scripting in Linux/Unix environments. Follow along with these examples to master the basics of shell scripting.**
+**This repository contains practical examples and guides for learning shell scripting in Linux/Unix environments. Follow along with these examples to master the basics of shell scripting.**
 
 ## Getting Started
 > [!NOTE]
